@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "532619126727",
+    "project_id": "chat-ni-boss",
+    "storage_bucket": "chat-ni-boss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532619126727:android:88ab8e2be8445959589be2",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532619126727-05unk76kp22jr8j6vq18iu53p2p58q3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWd3rgSkMNw4Ukw__Xcns5sV4eyrxl_sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532619126727-05unk76kp22jr8j6vq18iu53p2p58q3r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532619126727-40in26vt9m2mk4jgs5vu4sff69c8j410.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
